@@ -39,7 +39,6 @@ It provides insights into Netflix’s content library, including **total titles,
 
 ##  Files in Repository
 - `Netflix_Dashboard.pbix` → Power BI dashboard file  
-- `images/` → Screenshots of dashboard (optional)  
 - `README.md` → This file  
 
 ---
